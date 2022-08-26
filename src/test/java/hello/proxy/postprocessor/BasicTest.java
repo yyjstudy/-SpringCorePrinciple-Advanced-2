@@ -39,7 +39,8 @@ public class BasicTest {
         }
     }
 
-    @Slf4j    static class B{
+    @Slf4j
+    static class B{
         public void helloB() {
             log.info("hello B");
         }
